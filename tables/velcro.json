@@ -1,0 +1,41 @@
+{
+  "-N0CNLBqCGql_SDALJce": {
+    "_id": 1,
+    "createdDate": 1650565669566,
+    "lastEditDate": 1650565690426,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "None",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CNLBqCGql_SDALJce"
+  },
+  "-N0CNMGMtUcJtqto01F2": {
+    "_id": 3,
+    "createdDate": 1650565673951,
+    "lastEditDate": 1651513185288,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "linearFtCost": 0.5,
+    "name": "Hook",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CNMGMtUcJtqto01F2"
+  },
+  "-N0CNMSsldreFcdt9W-I": {
+    "_id": 4,
+    "createdDate": 1650565674752,
+    "lastEditDate": 1651513186964,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "linearFtCost": 0.5,
+    "name": "Loop",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CNMSsldreFcdt9W-I"
+  },
+  "-N0CNUZjlaed772Nhcj6": {
+    "_id": 5,
+    "createdDate": 1650565707966,
+    "lastEditDate": 1651513193388,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "linearFtCost": 1,
+    "name": "Hook & Loop",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CNUZjlaed772Nhcj6"
+  }
+}

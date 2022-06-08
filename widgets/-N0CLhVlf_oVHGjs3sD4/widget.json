@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/webbing",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "webbing"
+  },
+  "subtab": "-N0CLhUD5DWjNnDc1UmJ",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

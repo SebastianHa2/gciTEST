@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/windslitCounts",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "windslitCounts"
+  },
+  "subtab": "-N15-gRZl9rZkYTjxPsN",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/polePockets",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "polePockets"
+  },
+  "subtab": "-N0CMruu89ZJwYodgWYI",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

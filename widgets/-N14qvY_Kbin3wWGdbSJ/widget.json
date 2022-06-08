@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/velcroOptions",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "velcroOptions"
+  },
+  "subtab": "-N14qvXK8af_MyBG2VAm",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

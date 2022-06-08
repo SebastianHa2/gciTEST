@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/dRings",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "dRings"
+  },
+  "subtab": "-N0CLyGmKYkZaCZKTd8f",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

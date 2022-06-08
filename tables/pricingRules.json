@@ -1,0 +1,31 @@
+{
+  "-N14gX071LKgsxqKy7SM": {
+    "_id": 1,
+    "bannerSize": "-N0lYnCR-GE7YyBH2XOQ",
+    "costPerBillingUnit": 2.03,
+    "createdDate": 1651510484966,
+    "lastEditDate": 1651510651474,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "18oz Banner 3x8",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "parameter": "Pole Pockets",
+    "product": "-N07EysuLSCAHotGn4kl",
+    "rowKey": "-N14gX071LKgsxqKy7SM",
+    "setup": 5
+  },
+  "-N14h2XhdsJ-lFblZvc_": {
+    "_id": 2,
+    "bannerSize": "-N0lYnCVdyYuYxZkDe5v",
+    "costPerBillingUnit": 3,
+    "createdDate": 1651510622284,
+    "lastEditDate": 1651510655321,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "minCharge": 1,
+    "name": "18oz Banner 3x16",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "parameter": "Pole Pockets",
+    "product": "-N07EysuLSCAHotGn4kl",
+    "rowKey": "-N14h2XhdsJ-lFblZvc_",
+    "setup": 6
+  }
+}

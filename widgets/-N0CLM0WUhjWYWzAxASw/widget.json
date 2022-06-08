@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/hemming",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "hemming"
+  },
+  "subtab": "-N0CLLzfL49bGClUVp00",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

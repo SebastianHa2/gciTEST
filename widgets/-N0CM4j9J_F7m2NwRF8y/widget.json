@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/grommets",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "grommets"
+  },
+  "subtab": "-N0CM4hwE48cjjZh7bub",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

@@ -1,0 +1,645 @@
+[
+  {
+    "filePath": "components/u-Input/index.json",
+    "savePath": "components/-N07JLor2Hvgbw8YvP-U"
+  },
+  {
+    "filePath": "components/u-Input/compoenentCode.vue",
+    "savePath": "components/-N07JLor2Hvgbw8YvP-U/code"
+  },
+  {
+    "filePath": "components/u-Input/compoenentSchema.json",
+    "savePath": "components/-N07JLor2Hvgbw8YvP-U/schema",
+    "operation": "set"
+  },
+  {
+    "filePath": "components/u-Button/index.json",
+    "savePath": "components/-N0VVGRWbaUUXtT5jKln"
+  },
+  {
+    "filePath": "components/u-Button/compoenentCode.vue",
+    "savePath": "components/-N0VVGRWbaUUXtT5jKln/code"
+  },
+  {
+    "filePath": "components/u-Button/compoenentSchema.json",
+    "savePath": "components/-N0VVGRWbaUUXtT5jKln/schema",
+    "operation": "set"
+  },
+  {
+    "filePath": "customCode/css/page.css",
+    "savePath": "customCode/css/-N0lURF9pd9E08W5Ugh-/code",
+    "customCodeName": "page"
+  },
+  {
+    "filePath": "customCode/css/ShoppingCart.css",
+    "savePath": "customCode/css/-N2qKzODdadVHoY27XDN/code",
+    "customCodeName": "ShoppingCart",
+    "customCodeScope": {
+      "-N07G3mjkvV6pstp4fph": {
+        "-N2q7R0sCX9iOCAPPT0v": true
+      }
+    }
+  },
+  {
+    "filePath": "customCode/css/ReviewUpload.css",
+    "savePath": "customCode/css/-N2qT_bYTpNpHj8STsLs/code",
+    "customCodeName": "ReviewUpload",
+    "customCodeScope": {
+      "-N07G3mjkvV6pstp4fph": {
+        "-N2q-qLrwBdcnkQH8FDd": true
+      }
+    }
+  },
+  {
+    "filePath": "customCode/css/GuestAccountInformation.css",
+    "savePath": "customCode/css/-N2rGQlmZFjw-8CjnrQ0/code",
+    "customCodeName": "GuestAccountInformation",
+    "customCodeScope": {
+      "-N07G3mjkvV6pstp4fph": {
+        "-N2r81wtT056kZLUhLH-": true
+      }
+    }
+  },
+  {
+    "filePath": "customCode/js/UPSWorkflow.js",
+    "savePath": "customCode/js/-N2qud2JkLwR_Esrcn7A/code",
+    "customCodeName": "UPSWorkflow",
+    "customCodeScope": {
+      "-N07G3mjkvV6pstp4fph": true
+    }
+  },
+  {
+    "filePath": "customCode/js/CountriesAndStates.js",
+    "savePath": "customCode/js/-N2uwZQcde2SRYmW132i/code",
+    "customCodeName": "CountriesAndStates",
+    "customCodeScope": {
+      "-N07G3mjkvV6pstp4fph": {
+        "-N2r81wtT056kZLUhLH-": true
+      }
+    }
+  },
+  {
+    "filePath": "tables/bannerImages.json",
+    "savePath": "models/bannerImages",
+    "isModel": true,
+    "modelKey": "bannerImages"
+  },
+  {
+    "filePath": "tables/bannerSizes.json",
+    "savePath": "models/bannerSizes",
+    "isModel": true,
+    "modelKey": "bannerSizes"
+  },
+  {
+    "filePath": "tables/dRings.json",
+    "savePath": "models/dRings",
+    "isModel": true,
+    "modelKey": "dRings"
+  },
+  {
+    "filePath": "tables/grommets.json",
+    "savePath": "models/grommets",
+    "isModel": true,
+    "modelKey": "grommets"
+  },
+  {
+    "filePath": "tables/gussetCorners.json",
+    "savePath": "models/gussetCorners",
+    "isModel": true,
+    "modelKey": "gussetCorners"
+  },
+  {
+    "filePath": "tables/hemming.json",
+    "savePath": "models/hemming",
+    "isModel": true,
+    "modelKey": "hemming"
+  },
+  {
+    "filePath": "tables/hemmingColors.json",
+    "savePath": "models/hemmingColors",
+    "isModel": true,
+    "modelKey": "hemmingColors"
+  },
+  {
+    "filePath": "tables/orderItems.json",
+    "savePath": "models/orderItems",
+    "isModel": true,
+    "modelKey": "orderItems"
+  },
+  {
+    "filePath": "tables/orders.json",
+    "savePath": "models/orders",
+    "isModel": true,
+    "modelKey": "orders"
+  },
+  {
+    "filePath": "tables/pages.json",
+    "savePath": "models/pages",
+    "isModel": true,
+    "modelKey": "pages"
+  },
+  {
+    "filePath": "tables/polePockets.json",
+    "savePath": "models/polePockets",
+    "isModel": true,
+    "modelKey": "polePockets"
+  },
+  {
+    "filePath": "tables/positions.json",
+    "savePath": "models/positions",
+    "isModel": true,
+    "modelKey": "positions"
+  },
+  {
+    "filePath": "tables/pricingRules.json",
+    "savePath": "models/pricingRules",
+    "isModel": true,
+    "modelKey": "pricingRules"
+  },
+  {
+    "filePath": "tables/products.json",
+    "savePath": "models/products",
+    "isModel": true,
+    "modelKey": "products"
+  },
+  {
+    "filePath": "tables/shippingMethod.json",
+    "savePath": "models/shippingMethod",
+    "isModel": true,
+    "modelKey": "shippingMethod"
+  },
+  {
+    "filePath": "tables/test.json",
+    "savePath": "models/test",
+    "isModel": true,
+    "modelKey": "test"
+  },
+  {
+    "filePath": "tables/turnaroundTime.json",
+    "savePath": "models/turnaroundTime",
+    "isModel": true,
+    "modelKey": "turnaroundTime"
+  },
+  {
+    "filePath": "tables/type.json",
+    "savePath": "models/type",
+    "isModel": true,
+    "modelKey": "type"
+  },
+  {
+    "filePath": "tables/velcro.json",
+    "savePath": "models/velcro",
+    "isModel": true,
+    "modelKey": "velcro"
+  },
+  {
+    "filePath": "tables/velcroOptions.json",
+    "savePath": "models/velcroOptions",
+    "isModel": true,
+    "modelKey": "velcroOptions"
+  },
+  {
+    "filePath": "tables/webbing.json",
+    "savePath": "models/webbing",
+    "isModel": true,
+    "modelKey": "webbing"
+  },
+  {
+    "filePath": "tables/windslitCounts.json",
+    "savePath": "models/windslitCounts",
+    "isModel": true,
+    "modelKey": "windslitCounts"
+  },
+  {
+    "filePath": "tables/workflows.json",
+    "savePath": "models/workflows",
+    "isModel": true,
+    "modelKey": "workflows"
+  },
+  {
+    "filePath": "subPages/-N07FPwVmQUbMiX5NLYr/-N07FSwY7gyz7HOJNIoz.json",
+    "savePath": "subTabs/-N07FPwVmQUbMiX5NLYr/-N07FSwY7gyz7HOJNIoz"
+  },
+  {
+    "filePath": "subPages/-N07FPwVmQUbMiX5NLYr/-N3KqEiRuqv0tS5-_6Wp.json",
+    "savePath": "subTabs/-N07FPwVmQUbMiX5NLYr/-N3KqEiRuqv0tS5-_6Wp"
+  },
+  {
+    "filePath": "subPages/-N07G3mjkvV6pstp4fph/-N2q-qLrwBdcnkQH8FDd.json",
+    "savePath": "subTabs/-N07G3mjkvV6pstp4fph/-N2q-qLrwBdcnkQH8FDd"
+  },
+  {
+    "filePath": "subPages/-N07G3mjkvV6pstp4fph/-N2q7R0sCX9iOCAPPT0v.json",
+    "savePath": "subTabs/-N07G3mjkvV6pstp4fph/-N2q7R0sCX9iOCAPPT0v"
+  },
+  {
+    "filePath": "subPages/-N07G3mjkvV6pstp4fph/-N2r81wtT056kZLUhLH-.json",
+    "savePath": "subTabs/-N07G3mjkvV6pstp4fph/-N2r81wtT056kZLUhLH-"
+  },
+  {
+    "filePath": "subPages/-N07G3mjkvV6pstp4fph/-N30TmaPHDBrARyYjQBO.json",
+    "savePath": "subTabs/-N07G3mjkvV6pstp4fph/-N30TmaPHDBrARyYjQBO"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CLBQFcZGz4Gj-VuVi.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CLBQFcZGz4Gj-VuVi"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CLLzfL49bGClUVp00.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CLLzfL49bGClUVp00"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CLhUD5DWjNnDc1UmJ.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CLhUD5DWjNnDc1UmJ"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CLyGmKYkZaCZKTd8f.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CLyGmKYkZaCZKTd8f"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CM4hwE48cjjZh7bub.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CM4hwE48cjjZh7bub"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CMruu89ZJwYodgWYI.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CMruu89ZJwYodgWYI"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CNKFPGtOLsz1dOIWs.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CNKFPGtOLsz1dOIWs"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CNZwhA3HI01DKGRFh.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CNZwhA3HI01DKGRFh"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CNiFrJskW0kgFBFQr.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CNiFrJskW0kgFBFQr"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CXDgN9vE_o65IWRXZ.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CXDgN9vE_o65IWRXZ"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0CXFnJ2tPud74m4Ubg.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0CXFnJ2tPud74m4Ubg"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N0lYl8jcsD3yP4dWPVO.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N0lYl8jcsD3yP4dWPVO"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N14gWMka591WaRLSexz.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N14gWMka591WaRLSexz"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N14qvXK8af_MyBG2VAm.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N14qvXK8af_MyBG2VAm"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N15-gRZl9rZkYTjxPsN.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N15-gRZl9rZkYTjxPsN"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N150kZyIilNsLjKmlHv.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N150kZyIilNsLjKmlHv"
+  },
+  {
+    "filePath": "subPages/-N0CKSlFsx_hNqfE5HkQ/-N154rAW4DudlTiUt7r9.json",
+    "savePath": "subTabs/-N0CKSlFsx_hNqfE5HkQ/-N154rAW4DudlTiUt7r9"
+  },
+  {
+    "filePath": "pages/-N07CzKhU-IAE2SpzDNW.json",
+    "savePath": "tabs/-N07CzKhU-IAE2SpzDNW"
+  },
+  {
+    "filePath": "pages/-N07D0Hk_PFKWHhBtgS9.json",
+    "savePath": "tabs/-N07D0Hk_PFKWHhBtgS9"
+  },
+  {
+    "filePath": "pages/-N07FPwVmQUbMiX5NLYr.json",
+    "savePath": "tabs/-N07FPwVmQUbMiX5NLYr"
+  },
+  {
+    "filePath": "pages/-N07G3mjkvV6pstp4fph.json",
+    "savePath": "tabs/-N07G3mjkvV6pstp4fph"
+  },
+  {
+    "filePath": "pages/-N0CKSlFsx_hNqfE5HkQ.json",
+    "savePath": "tabs/-N0CKSlFsx_hNqfE5HkQ"
+  },
+  {
+    "filePath": "userWidgetsData/IExbYiRgRLdw4BMqAJyB9omEhov1.json",
+    "savePath": "userWidgetsData/IExbYiRgRLdw4BMqAJyB9omEhov1"
+  },
+  {
+    "filePath": "userWidgetsData/syJZaDJnDBNDlBOib1m3Nmdoatx2.json",
+    "savePath": "userWidgetsData/syJZaDJnDBNDlBOib1m3Nmdoatx2"
+  },
+  {
+    "filePath": "widgets/-N07D0IlJc4tmaJDIYIM/widget.json",
+    "savePath": "widgets/-N07D0IlJc4tmaJDIYIM"
+  },
+  {
+    "filePath": "widgets/-N07FPxjcrNuls4lPYGq/widget.json",
+    "savePath": "widgets/-N07FPxjcrNuls4lPYGq"
+  },
+  {
+    "filePath": "widgets/-N07FSxfj8DTZApDf88F/widget.json",
+    "savePath": "widgets/-N07FSxfj8DTZApDf88F"
+  },
+  {
+    "filePath": "widgets/-N07GBDu-jP_sGfLrcet/widget.json",
+    "savePath": "widgets/-N07GBDu-jP_sGfLrcet"
+  },
+  {
+    "filePath": "widgets/-N07GSHKST9J6QB6G-6x/widget.json",
+    "savePath": "widgets/-N07GSHKST9J6QB6G-6x"
+  },
+  {
+    "filePath": "widgets/-N07GSHKST9J6QB6G-6x/detailTemplate.html",
+    "savePath": "widgets/-N07GSHKST9J6QB6G-6x/detailTemplate"
+  },
+  {
+    "filePath": "widgets/-N07GSHKST9J6QB6G-6x/template.html",
+    "savePath": "widgets/-N07GSHKST9J6QB6G-6x/template"
+  },
+  {
+    "filePath": "widgets/-N07GoGO5-w7Zju2yTgK/widget.json",
+    "savePath": "widgets/-N07GoGO5-w7Zju2yTgK"
+  },
+  {
+    "filePath": "widgets/-N07H5pAdW9jFzC3umEt/widget.json",
+    "savePath": "widgets/-N07H5pAdW9jFzC3umEt"
+  },
+  {
+    "filePath": "widgets/-N07I68PBWPNRMEDhK_5/widget.json",
+    "savePath": "widgets/-N07I68PBWPNRMEDhK_5"
+  },
+  {
+    "filePath": "widgets/-N0CLBRPo9eKUG-Dm-38/widget.json",
+    "savePath": "widgets/-N0CLBRPo9eKUG-Dm-38"
+  },
+  {
+    "filePath": "widgets/-N0CLM0WUhjWYWzAxASw/widget.json",
+    "savePath": "widgets/-N0CLM0WUhjWYWzAxASw"
+  },
+  {
+    "filePath": "widgets/-N0CLhVlf_oVHGjs3sD4/widget.json",
+    "savePath": "widgets/-N0CLhVlf_oVHGjs3sD4"
+  },
+  {
+    "filePath": "widgets/-N0CLyII70AhY7LYMBxB/widget.json",
+    "savePath": "widgets/-N0CLyII70AhY7LYMBxB"
+  },
+  {
+    "filePath": "widgets/-N0CM4j9J_F7m2NwRF8y/widget.json",
+    "savePath": "widgets/-N0CM4j9J_F7m2NwRF8y"
+  },
+  {
+    "filePath": "widgets/-N0CMrwOY2uhaCeDx-Sw/widget.json",
+    "savePath": "widgets/-N0CMrwOY2uhaCeDx-Sw"
+  },
+  {
+    "filePath": "widgets/-N0CNKGd8Lnn05g71Lmg/widget.json",
+    "savePath": "widgets/-N0CNKGd8Lnn05g71Lmg"
+  },
+  {
+    "filePath": "widgets/-N0CNZxyGspZfyFliexR/widget.json",
+    "savePath": "widgets/-N0CNZxyGspZfyFliexR"
+  },
+  {
+    "filePath": "widgets/-N0CNiHIns3OLi0TQiqw/widget.json",
+    "savePath": "widgets/-N0CNiHIns3OLi0TQiqw"
+  },
+  {
+    "filePath": "widgets/-N0CQmXAHdsYLvScX1K5/widget.json",
+    "savePath": "widgets/-N0CQmXAHdsYLvScX1K5"
+  },
+  {
+    "filePath": "widgets/-N0CQmXAHdsYLvScX1K5/detailTemplate.html",
+    "savePath": "widgets/-N0CQmXAHdsYLvScX1K5/detailTemplate"
+  },
+  {
+    "filePath": "widgets/-N0CQmXAHdsYLvScX1K5/template.html",
+    "savePath": "widgets/-N0CQmXAHdsYLvScX1K5/template"
+  },
+  {
+    "filePath": "widgets/-N0CXDho1gLYEw-4ExNq/widget.json",
+    "savePath": "widgets/-N0CXDho1gLYEw-4ExNq"
+  },
+  {
+    "filePath": "widgets/-N0CXFoQk4ukEXrsX6Sl/widget.json",
+    "savePath": "widgets/-N0CXFoQk4ukEXrsX6Sl"
+  },
+  {
+    "filePath": "widgets/-N0lYlASH7TX1YHmbXtN/widget.json",
+    "savePath": "widgets/-N0lYlASH7TX1YHmbXtN"
+  },
+  {
+    "filePath": "widgets/-N14gWOSxxZqsEm6uxBj/widget.json",
+    "savePath": "widgets/-N14gWOSxxZqsEm6uxBj"
+  },
+  {
+    "filePath": "widgets/-N14qvY_Kbin3wWGdbSJ/widget.json",
+    "savePath": "widgets/-N14qvY_Kbin3wWGdbSJ"
+  },
+  {
+    "filePath": "widgets/-N15-gT7SEeV_H5ZhEap/widget.json",
+    "savePath": "widgets/-N15-gT7SEeV_H5ZhEap"
+  },
+  {
+    "filePath": "widgets/-N150kaBW6XBuca9e1BW/widget.json",
+    "savePath": "widgets/-N150kaBW6XBuca9e1BW"
+  },
+  {
+    "filePath": "widgets/-N154rC9BMQV8rplpYre/widget.json",
+    "savePath": "widgets/-N154rC9BMQV8rplpYre"
+  },
+  {
+    "filePath": "widgets/-N2q19PBHe4BSOQ3Inqh/widget.json",
+    "savePath": "widgets/-N2q19PBHe4BSOQ3Inqh"
+  },
+  {
+    "filePath": "widgets/-N2q19PBHe4BSOQ3Inqh/detailTemplate.html",
+    "savePath": "widgets/-N2q19PBHe4BSOQ3Inqh/detailTemplate"
+  },
+  {
+    "filePath": "widgets/-N2q19PBHe4BSOQ3Inqh/template.html",
+    "savePath": "widgets/-N2q19PBHe4BSOQ3Inqh/template"
+  },
+  {
+    "filePath": "widgets/-N2q7_Prxa8mwFkCYWUO/widget.json",
+    "savePath": "widgets/-N2q7_Prxa8mwFkCYWUO"
+  },
+  {
+    "filePath": "widgets/-N2q7_Prxa8mwFkCYWUO/detailTemplate.html",
+    "savePath": "widgets/-N2q7_Prxa8mwFkCYWUO/detailTemplate"
+  },
+  {
+    "filePath": "widgets/-N2q7_Prxa8mwFkCYWUO/template.html",
+    "savePath": "widgets/-N2q7_Prxa8mwFkCYWUO/template"
+  },
+  {
+    "filePath": "widgets/-N2r81zSivSP4ZueEx8C/widget.json",
+    "savePath": "widgets/-N2r81zSivSP4ZueEx8C"
+  },
+  {
+    "filePath": "widgets/-N2r81zSivSP4ZueEx8C/detailTemplate.html",
+    "savePath": "widgets/-N2r81zSivSP4ZueEx8C/detailTemplate"
+  },
+  {
+    "filePath": "widgets/-N2r81zSivSP4ZueEx8C/template.html",
+    "savePath": "widgets/-N2r81zSivSP4ZueEx8C/template"
+  },
+  {
+    "filePath": "widgets/-N30TvTqVa7s_yBpV_k1/widget.json",
+    "savePath": "widgets/-N30TvTqVa7s_yBpV_k1"
+  },
+  {
+    "filePath": "widgets/-N30U27b0QNl6tIgs7C7/widget.json",
+    "savePath": "widgets/-N30U27b0QNl6tIgs7C7"
+  },
+  {
+    "filePath": "widgets/-N30U27b0QNl6tIgs7C7/detailTemplate.html",
+    "savePath": "widgets/-N30U27b0QNl6tIgs7C7/detailTemplate"
+  },
+  {
+    "filePath": "widgets/-N30U27b0QNl6tIgs7C7/template.html",
+    "savePath": "widgets/-N30U27b0QNl6tIgs7C7/template"
+  },
+  {
+    "filePath": "widgets/-N34W2mYtQe7To5_VS9U/widget.json",
+    "savePath": "widgets/-N34W2mYtQe7To5_VS9U"
+  },
+  {
+    "filePath": "widgets/-N3KqEksRRFS62dJm0ZN/widget.json",
+    "savePath": "widgets/-N3KqEksRRFS62dJm0ZN"
+  },
+  {
+    "filePath": "widgetsComputed/getPrice.js",
+    "savePath": "widgetsComputed/getPrice"
+  },
+  {
+    "filePath": "widgetsComputed/viewItem.js",
+    "savePath": "widgetsComputed/viewItem"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/bannerImages.json",
+    "savePath": "widgetsData/dataGrid/bannerImages",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/bannerSizes.json",
+    "savePath": "widgetsData/dataGrid/bannerSizes",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/dRings.json",
+    "savePath": "widgetsData/dataGrid/dRings",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/grommets.json",
+    "savePath": "widgetsData/dataGrid/grommets",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/gussetCorners.json",
+    "savePath": "widgetsData/dataGrid/gussetCorners",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/hemming.json",
+    "savePath": "widgetsData/dataGrid/hemming",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/hemmingColors.json",
+    "savePath": "widgetsData/dataGrid/hemmingColors",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/orderItems.json",
+    "savePath": "widgetsData/dataGrid/orderItems",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/orders.json",
+    "savePath": "widgetsData/dataGrid/orders",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/polePockets.json",
+    "savePath": "widgetsData/dataGrid/polePockets",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/positions.json",
+    "savePath": "widgetsData/dataGrid/positions",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/pricingRules.json",
+    "savePath": "widgetsData/dataGrid/pricingRules",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/products.json",
+    "savePath": "widgetsData/dataGrid/products",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/shippingMethod.json",
+    "savePath": "widgetsData/dataGrid/shippingMethod",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/test.json",
+    "savePath": "widgetsData/dataGrid/test",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/turnaroundTime.json",
+    "savePath": "widgetsData/dataGrid/turnaroundTime",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/type.json",
+    "savePath": "widgetsData/dataGrid/type",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/velcro.json",
+    "savePath": "widgetsData/dataGrid/velcro",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/velcroOptions.json",
+    "savePath": "widgetsData/dataGrid/velcroOptions",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/webbing.json",
+    "savePath": "widgetsData/dataGrid/webbing",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "widgetsData/dataGrid/windslitCounts.json",
+    "savePath": "widgetsData/dataGrid/windslitCounts",
+    "conversion": "dataGrid"
+  },
+  {
+    "filePath": "workflow/scriptTasks/UPSSpoof/Script Task (node1653407895387).js",
+    "savePath": "workflow/-N2qmUbz2tSpSXc3twk2",
+    "isWorkflowScriptTask": true,
+    "workflowId": "-N2qmUbz2tSpSXc3twk2",
+    "workflowFile": "workflow/UPSSpoof (-N2qmUbz2tSpSXc3twk2).json",
+    "nodeId": "node1653407895387"
+  },
+  {
+    "filePath": "workflow/UPSSpoof (-N2qmUbz2tSpSXc3twk2).json",
+    "savePath": "workflow/-N2qmUbz2tSpSXc3twk2",
+    "conversion": "workflow"
+  }
+]

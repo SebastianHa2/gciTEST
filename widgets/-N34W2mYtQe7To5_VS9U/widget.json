@@ -1,0 +1,22 @@
+{
+  "component": "-N0VVGRWbaUUXtT5jKln",
+  "container": "-N07GWk2XiIFFOBd960R",
+  "gsOptions": {
+    "h": 1,
+    "w": 21,
+    "x": 0,
+    "y": 5
+  },
+  "offSet": 0,
+  "perPage": 2,
+  "props": {
+    "fullWidth": true,
+    "isOutlined": false,
+    "onClickHandler": "this.$parent.openDetail(this.idx)",
+    "size": "sm",
+    "text": "{ \"doEval\": true, \"isExpression\": true, \"value\": \"Select Options\" }",
+    "variant": "primary"
+  },
+  "tab": "-N07G3mjkvV6pstp4fph",
+  "type": "custom"
+}

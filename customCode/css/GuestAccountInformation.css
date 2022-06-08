@@ -1,0 +1,20 @@
+body, h1, h3, label, input, option, button {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+hr {
+    width: 100% !important;
+    border: gray 1px solid;
+}
+
+.buttonContainer {
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+.buttonContainer button {
+    background: rgba(210, 42, 48, 1) !important;
+    border-color: rgba(210, 42, 48, 1) !important;
+    color: rgb(255,255,255,1);
+    border-radius: 0;
+}

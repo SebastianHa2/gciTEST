@@ -1,0 +1,35 @@
+body, h1, h2, h3, button {
+    font-family: "Open Sans","Helvetica Neue",Helvetica,Arial,sans-serif !important;
+}
+
+hr {
+    width: 100% !important;
+    border: gray 1px solid;
+}
+
+.qtyPriceContainer,
+.buttonContainer,
+.subContainer {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.container button {
+    background: rgba(210, 42, 48, 1) !important;
+    border-color: rgba(210, 42, 48, 1) !important;
+    color: rgb(255,255,255,1);
+    border-radius: 0;
+}
+
+.whiteButtons button {
+    background: rgba(255,255,255,1) !important;
+    border: rgba(199,28,34, 1) 1px solid !important;
+    color: rgba(199,28,34, 1) !important;
+    border-radius: 0;
+}
+
+.image {
+    width: 100%;
+    background: red;
+}

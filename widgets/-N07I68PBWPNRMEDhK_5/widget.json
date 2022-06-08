@@ -1,0 +1,19 @@
+{
+  "component": "-MqAVWhd6WTqEh3CgmF0",
+  "container": "-N07GWk2XiIFFOBd960S",
+  "gsOptions": {
+    "h": 5,
+    "w": 8,
+    "x": 0,
+    "y": 0
+  },
+  "offSet": 0,
+  "perPage": 2,
+  "props": {
+    "height": 100,
+    "src": "{ \"doEval\": true, \"value\": \"this.row.image\" }",
+    "width": 100
+  },
+  "tab": "-N07G3mjkvV6pstp4fph",
+  "type": "custom"
+}

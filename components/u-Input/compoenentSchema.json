@@ -1,0 +1,24 @@
+{
+  "type": "object",
+  "properties": {
+    "value": {
+      "type": "string",
+      "title": "Text:",
+      "dataBound": true
+    },
+    "customClass": {
+      "type": "string",
+      "title": "Class:"
+    },
+    "customStyle": {
+      "type": "string",
+      "title": "Style:",
+      "format": "textarea"
+    },
+    "placeholder": {
+      "type": "string",
+      "title": "Style:",
+      "format": "textarea"
+    }
+  }
+}

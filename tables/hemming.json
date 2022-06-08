@@ -1,0 +1,31 @@
+{
+  "-N0CLOT9Iiu0vnS4EuBA": {
+    "_id": 1,
+    "createdDate": 1650565158627,
+    "lastEditDate": 1651514181698,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Heat Welding (No Charge)",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CLOT9Iiu0vnS4EuBA"
+  },
+  "-N0CLOTBLqVLz9aI4B_A": {
+    "_id": 2,
+    "cost": 0,
+    "createdDate": 1650565158629,
+    "lastEditDate": 1651514207989,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "linerFtCost": 0.1,
+    "name": "Stitching",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CLOTBLqVLz9aI4B_A"
+  },
+  "-N0CLOTDLQ6S495Cm44h": {
+    "_id": 3,
+    "createdDate": 1650565158631,
+    "lastEditDate": 1650565183441,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "None",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CLOTDLQ6S495Cm44h"
+  }
+}

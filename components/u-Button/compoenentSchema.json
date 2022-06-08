@@ -1,0 +1,50 @@
+{
+  "type": "object",
+  "properties": {
+    "text": {
+      "type": "string",
+      "title": "Text:",
+      "dataBound": true
+    },
+    "variant": {
+      "type": "string",
+      "title": "Variant:",
+      "required": true,
+      "enum": [
+        "primary", "secondary", "success",
+        "danger", "warning", "info",
+        "light", "dark"
+      ],
+      "options": {
+        "enum_titles": [
+          "Primary", "Secondary", "Success",
+          "Danger", "Warning", "Info",
+          "Light", "Dark"
+        ]
+      }
+    },
+    "isOutlined": {
+      "type": "boolean",
+      "title": "Is Outlined:",
+      "format": "checkbox"
+    },
+    "size": {
+      "type": "string",
+      "title": "Size:",
+      "enum": ["sm", "lg"],
+      "options": {
+        "enum_titles": ["Small", "Large"]
+      },
+      "required": true
+    },
+    "fullWidth": {
+      "type": "boolean",
+      "title": "Is Full Width",
+      "format": "checkbox"
+    },
+    "onClickHandler": {
+      "type": "string",
+      "title": "On Click Handler:"
+    }
+  }
+}

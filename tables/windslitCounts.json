@@ -1,0 +1,92 @@
+{
+  "-N15-hoPP7sUnFxs8hy-": {
+    "_id": 1,
+    "cost": 10,
+    "createdDate": 1651515776170,
+    "lastEditDate": 1651515819538,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "2",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hoPP7sUnFxs8hy-"
+  },
+  "-N15-hoRdyfR9XWtYbLw": {
+    "_id": 2,
+    "cost": 15,
+    "createdDate": 1651515776172,
+    "lastEditDate": 1651515820452,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "3",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hoRdyfR9XWtYbLw"
+  },
+  "-N15-hoTNiYDHgaGHoUy": {
+    "_id": 3,
+    "cost": 20,
+    "createdDate": 1651515776174,
+    "lastEditDate": 1651515821859,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "4",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hoTNiYDHgaGHoUy"
+  },
+  "-N15-hoV_sPM2TAkTG8l": {
+    "_id": 4,
+    "cost": 25,
+    "createdDate": 1651515776176,
+    "lastEditDate": 1651515823011,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "5",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hoV_sPM2TAkTG8l"
+  },
+  "-N15-hoXzKANA4KtKMLN": {
+    "_id": 5,
+    "cost": 30,
+    "createdDate": 1651515776178,
+    "lastEditDate": 1651515824680,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "6",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hoXzKANA4KtKMLN"
+  },
+  "-N15-hoZBeA0sWggCmXg": {
+    "_id": 6,
+    "cost": 35,
+    "createdDate": 1651515776180,
+    "lastEditDate": 1651515826973,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "7",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hoZBeA0sWggCmXg"
+  },
+  "-N15-hoaciytrAJ86Gs2": {
+    "_id": 7,
+    "cost": 40,
+    "createdDate": 1651515776182,
+    "lastEditDate": 1651515830344,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "8",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hoaciytrAJ86Gs2"
+  },
+  "-N15-hodHV7H41GpFjVE": {
+    "_id": 8,
+    "cost": 45,
+    "createdDate": 1651515776185,
+    "lastEditDate": 1651515832326,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "9",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hodHV7H41GpFjVE"
+  },
+  "-N15-hofP3VDaT3nBP00": {
+    "_id": 9,
+    "cost": 50,
+    "createdDate": 1651515776187,
+    "lastEditDate": 1651515833417,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "10",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N15-hofP3VDaT3nBP00"
+  }
+}

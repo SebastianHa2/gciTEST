@@ -1,0 +1,72 @@
+{
+  "-N0CXGN3KRhOsOEju9aU": {
+    "_id": 1,
+    "createdDate": 1650568271288,
+    "lastEditDate": 1651513002919,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Top",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "polePocketCost": 10,
+    "rowKey": "-N0CXGN3KRhOsOEju9aU"
+  },
+  "-N0CXGZLh4IPjG_gCjBE": {
+    "_id": 2,
+    "createdDate": 1650568272074,
+    "lastEditDate": 1651513004235,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Bottom",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "polePocketCost": 10,
+    "rowKey": "-N0CXGZLh4IPjG_gCjBE"
+  },
+  "-N0CXGlK7MXszGeNRJ52": {
+    "_id": 3,
+    "createdDate": 1650568272905,
+    "lastEditDate": 1651513005434,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Left",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "polePocketCost": 10,
+    "rowKey": "-N0CXGlK7MXszGeNRJ52"
+  },
+  "-N0CXKxTUO7IFhql0AvS": {
+    "_id": 4,
+    "createdDate": 1650568290066,
+    "lastEditDate": 1651513006667,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Right",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "polePocketCost": 10,
+    "rowKey": "-N0CXKxTUO7IFhql0AvS"
+  },
+  "-N0CXLRGL05UEtv5V_Fx": {
+    "_id": 5,
+    "createdDate": 1650568292037,
+    "lastEditDate": 1651513001269,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "All Sides",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "polePocketCost": 40,
+    "rowKey": "-N0CXLRGL05UEtv5V_Fx"
+  },
+  "-N14w6PjFAnt2dbPmzLF": {
+    "_id": 6,
+    "createdDate": 1651514570303,
+    "lastEditDate": 1651514586109,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Top And Bottom",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "polePocketCost": 20,
+    "rowKey": "-N14w6PjFAnt2dbPmzLF"
+  },
+  "-N14w6gY4Mv_bXZ5q5Ut": {
+    "_id": 7,
+    "createdDate": 1651514571443,
+    "lastEditDate": 1651514587393,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Left And right",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "polePocketCost": 20,
+    "rowKey": "-N14w6gY4Mv_bXZ5q5Ut"
+  }
+}

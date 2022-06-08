@@ -1,0 +1,15 @@
+{
+  "dependency": "dataGrid/bannerImages",
+  "gsOptions": {
+    "h": 6,
+    "w": 24
+  },
+  "layout": "b-card",
+  "overflow": "height: auto",
+  "props": {
+    "gridId": "bannerImages"
+  },
+  "subtab": "-N154rAW4DudlTiUt7r9",
+  "tab": "-N0CKSlFsx_hNqfE5HkQ",
+  "type": "DataGrid"
+}

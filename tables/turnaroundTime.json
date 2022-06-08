@@ -1,0 +1,32 @@
+{
+  "-N0CNjky55WcXeer1qJ4": {
+    "_id": 1,
+    "cost": 0,
+    "createdDate": 1650565774285,
+    "lastEditDate": 1651508090680,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "Standard (3 days)",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CNjky55WcXeer1qJ4"
+  },
+  "-N0CNkD_qRrJX5YwNy1T": {
+    "_id": 2,
+    "cost": 50,
+    "createdDate": 1650565776181,
+    "lastEditDate": 1651508094462,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "2-day rush",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CNkD_qRrJX5YwNy1T"
+  },
+  "-N0CNkN6H_NRoT_1fOws": {
+    "_id": 3,
+    "cost": 100,
+    "createdDate": 1650565776790,
+    "lastEditDate": 1651508095620,
+    "lastEditedBy": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "name": "1 day rush",
+    "owner": "IExbYiRgRLdw4BMqAJyB9omEhov1",
+    "rowKey": "-N0CNkN6H_NRoT_1fOws"
+  }
+}

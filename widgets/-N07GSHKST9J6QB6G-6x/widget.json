@@ -1,0 +1,39 @@
+{
+  "autoHeight": false,
+  "classes": "",
+  "columnCount": "3",
+  "container": "-N07GBDv3Q_QKwTHLa2o",
+  "containerTabsCardList": [
+    {
+      "key": "-N07GWk2XiIFFOBd960R",
+      "title": "Page Name"
+    }
+  ],
+  "containerTabsCardListDetail": [
+    {
+      "key": "-N07GWk2XiIFFOBd960S",
+      "title": "Page Name"
+    }
+  ],
+  "dataSource": "products",
+  "gsOptions": {
+    "h": 16,
+    "w": 24,
+    "x": 0,
+    "y": 0
+  },
+  "isCardListDetailTabsHidden": true,
+  "isCardListTabsHidden": true,
+  "itemsPerPage": 100,
+  "layout": "b-card",
+  "offSet": 0,
+  "overflow": "height: auto;",
+  "perPage": 2,
+  "styles": "",
+  "tab": "-N07G3mjkvV6pstp4fph",
+  "title": "Products",
+  "type": "card-list",
+  "useContainerForDetail": true,
+  "useContainerForList": true,
+  "widthType": "columnCount"
+}
